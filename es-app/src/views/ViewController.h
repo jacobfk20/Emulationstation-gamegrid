@@ -46,7 +46,7 @@ public:
 		NOTHING,
 		START_SCREEN,
 		SYSTEM_SELECT,
-		GAME_LIST
+		GAME_LIST,
 	};
 
 	struct State
